@@ -1,6 +1,8 @@
 # code-line-counter
 
 > Code line counter
+> 
+> npm install -g code-line-counter
 
 ```bash
 clc .
