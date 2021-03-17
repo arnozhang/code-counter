@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+/**
+ * @author Arno Zhang
+ * @date 2020/08/20
+ */
+
+require('../lib/cli/clc');
